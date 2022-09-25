@@ -1,2 +1,2 @@
-# fawrSite
+https://xecozz.github.io/fawr/
  
